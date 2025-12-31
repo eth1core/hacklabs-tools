@@ -22,5 +22,21 @@ Si no estás de acuerdo con estos términos, no utilices esta herramienta.
 
 # · ¿How to install?
 
-```$git clone ```
-``` $cd hacklabs-tools```
+```bash
+rm -r hacklabs-tools
+```
+
+```bash
+pkg update && pkg upgrade
+```
+
+```bash
+git clone https://github.com/eth1core/hacklabs-tools.git
+```
+
+```bash
+cd hacklabs-tools
+```
+
+```bash
+bash kali_tools.sh
