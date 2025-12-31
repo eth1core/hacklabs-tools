@@ -20,7 +20,7 @@ Al utilizar esta herramienta, aceptas que eres el único responsable de tus acci
 
 Si no estás de acuerdo con estos términos, no utilices esta herramienta.
 
-· ¿How to install?
+# · ¿How to install?
 
 ```$git clone ```
 ``` $cd hacklabs-tools```
